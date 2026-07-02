@@ -1,0 +1,33 @@
+name: Uppdatera Meta Feed
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Körs varje dag kl 06:00
+  workflow_dispatch:       # Kan även köras manuellt
+
+jobs:
+  bygg-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Hämta repo
+        uses: actions/checkout@v4
+
+      - name: Installera Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installera paket
+        run: pip install requests beautifulsoup4
+
+      - name: Kör scriptet
+        run: python Skapa_feed.py
+
+      - name: Spara uppdaterad XML till repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add meta_feed.xml
+          git diff --staged --quiet || git commit -m "Uppdaterar meta_feed.xml automatiskt"
+          git push
