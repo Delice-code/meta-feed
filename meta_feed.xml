@@ -2,6 +2,30 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4OHw1OA/big_img/1c890670-7076-11f1-946f-dd2649305cf8.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4OHw1OA/big_img/09255750-7076-11f1-a24f-fbfff2a7c85e.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4OHw1OA/big_img/f3c90c80-7075-11f1-9980-bbe7627bacda.webp</url>
+    </image>
+    <home_listing_id>langgatan_10_storgatan_7_gmq_4e8</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/langgatan-10-storgatan-7-gmq-4e8</url>
+    <name>Långgatan 10 / Storgatan 7</name>
+    <price>7500000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Långgatan 10 / Storgatan 7</component>
+      <component name="city">Mariefred</component>
+      <component name="region">Mariefred</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Mariefred</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyOXw1OA/big_img/a11116b0-6565-11f1-a24f-fbfff2a7c85e.webp</url>
     </image>
     <image>
@@ -95,29 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Västerås</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTMzOHw1OA/big_img/ee7899d0-5838-11f1-946f-dd2649305cf8.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTMzOHw1OA/big_img/41119ed0-5839-11f1-a576-4b904365c5dd.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTMzOHw1OA/big_img/4b00a670-5839-11f1-9980-bbe7627bacda.webp</url>
-    </image>
-    <home_listing_id>bevaringsgatan_10_goz_a2f</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/bevaringsgatan-10-goz-a2f</url>
-    <name>Beväringsgatan 10</name>
-    <price>7750000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Beväringsgatan 10</component>
-      <component name="city">Örebro</component>
-      <component name="region">Örebro</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Örebro</neighborhood>
   </listing>
 </listings>
