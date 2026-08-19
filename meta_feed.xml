@@ -2,6 +2,54 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyMnw1OA/big_img/9bdf96e0-6875-11f1-9980-bbe7627bacda.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyMnw1OA/big_img/9cc1e090-6875-11f1-a576-4b904365c5dd.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyMnw1OA/big_img/9db58f60-6875-11f1-a576-4b904365c5dd.webp</url>
+    </image>
+    <home_listing_id>fabriksgatan_2_g6x_v0w</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/fabriksgatan-2-g6x-v0w</url>
+    <name>Fabriksgatan 2</name>
+    <price>0 SEK</price>
+    <address format="simple">
+      <component name="addr1">Fabriksgatan 2</component>
+      <component name="city">Flen</component>
+      <component name="region">Flen</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Flen</neighborhood>
+  </listing>
+  <listing>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ2OHw1OA/big_img/06c768c0-8ff4-11f1-a24f-fbfff2a7c85e.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ2OHw1OA/big_img/049ff4e0-8ff4-11f1-a576-4b904365c5dd.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ2OHw1OA/big_img/fb061220-8ff3-11f1-a24f-fbfff2a7c85e.webp</url>
+    </image>
+    <home_listing_id>borgvagen_7_g8n_5vh</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/borgvagen-7-g8n-5vh</url>
+    <name>Borgvägen 7</name>
+    <price>0 SEK</price>
+    <address format="simple">
+      <component name="addr1">Borgvägen 7</component>
+      <component name="city">Skogstorp</component>
+      <component name="region">Skogstorp</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Skogstorp</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUzMHw1OA/big_img/dcd24330-9a04-11f1-946f-dd2649305cf8.webp</url>
     </image>
     <image>
@@ -62,7 +110,7 @@
     <availability>for_sale</availability>
     <url>https://blokkfast.se/till-salu/polhemsvagen-4b-gxf-a0e</url>
     <name>Polhemsvägen 4B</name>
-    <price>2400000 SEK</price>
+    <price>2390000 SEK</price>
     <address format="simple">
       <component name="addr1">Polhemsvägen 4B</component>
       <component name="city">Norberg</component>
@@ -71,53 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Norberg</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDE0Nnw1OA/big_img/7ded1480-abab-11ed-9047-e1e34d12c30a.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDE0Nnw1OA/big_img/bfd55d10-75f3-11f1-a24f-fbfff2a7c85e.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDE0Nnw1OA/big_img/4d3533a0-9648-11f1-9980-bbe7627bacda.webp</url>
-    </image>
-    <home_listing_id>pressargatan_12_g3w_4wn</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/pressargatan-12-g3w-4wn</url>
-    <name>Pressargatan 12</name>
-    <price>0 SEK</price>
-    <address format="simple">
-      <component name="addr1">Pressargatan 12</component>
-      <component name="city">Eskilstuna</component>
-      <component name="region">Eskilstuna</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Eskilstuna</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4OHw1OA/big_img/1c890670-7076-11f1-946f-dd2649305cf8.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4OHw1OA/big_img/09255750-7076-11f1-a24f-fbfff2a7c85e.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4OHw1OA/big_img/f3c90c80-7075-11f1-9980-bbe7627bacda.webp</url>
-    </image>
-    <home_listing_id>langgatan_10_storgatan_7_gmq_4e8</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/langgatan-10-storgatan-7-gmq-4e8</url>
-    <name>Långgatan 10 / Storgatan 7</name>
-    <price>7500000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Långgatan 10 / Storgatan 7</component>
-      <component name="city">Mariefred</component>
-      <component name="region">Mariefred</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Mariefred</neighborhood>
   </listing>
 </listings>
