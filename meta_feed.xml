@@ -2,6 +2,30 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU0OHw1OA/big_img/1867cd40-9fbc-11f1-9980-bbe7627bacda.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU0OHw1OA/big_img/15b07570-9fbc-11f1-a576-4b904365c5dd.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU0OHw1OA/big_img/171339c0-9fbc-11f1-9980-bbe7627bacda.webp</url>
+    </image>
+    <home_listing_id>voltmatargatan_4_gsz_y2w</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/voltmatargatan-4-gsz-y2w</url>
+    <name>Voltmätargatan 4</name>
+    <price>1495000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Voltmätargatan 4</component>
+      <component name="city">Västerås</component>
+      <component name="region">Västerås</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Västerås</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUyMHw1OA/big_img/cb879f20-888b-11f0-aaa9-8b2d462bc18b.webp</url>
     </image>
     <image>
@@ -95,29 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Skogstorp</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUzMHw1OA/big_img/dcd24330-9a04-11f1-946f-dd2649305cf8.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUzMHw1OA/big_img/dff26ef0-9a04-11f1-a24f-fbfff2a7c85e.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUzMHw1OA/big_img/e429fe20-9a04-11f1-a24f-fbfff2a7c85e.webp</url>
-    </image>
-    <home_listing_id>kungsgatan_16_g9x_ety</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/kungsgatan-16-g9x-ety</url>
-    <name>Kungsgatan 16</name>
-    <price>13000000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Kungsgatan 16</component>
-      <component name="city">Avesta</component>
-      <component name="region">Avesta</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Avesta</neighborhood>
   </listing>
 </listings>
