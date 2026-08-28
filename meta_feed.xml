@@ -2,6 +2,30 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTEzMXw1OA/big_img/b7381900-8ee4-11f0-aaa9-8b2d462bc18b.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTEzMXw1OA/big_img/a8bf6a90-8ee4-11f0-9eb4-c31902ac9027.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTEzMXw1OA/big_img/b5e5cf70-8ee4-11f0-9eb4-c31902ac9027.webp</url>
+    </image>
+    <home_listing_id>dalavagen_62_64_gwx_q4t</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/dalavagen-62-64-gwx-q4t</url>
+    <name>Dalavägen 62-64</name>
+    <price>5500000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Dalavägen 62-64</component>
+      <component name="city">Fagersta</component>
+      <component name="region">Fagersta</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Fagersta</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUzMHw1OA/big_img/e8c5f470-9a04-11f1-a24f-fbfff2a7c85e.webp</url>
     </image>
     <image>
@@ -95,29 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Österfärnebo</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyMnw1OA/big_img/9bdf96e0-6875-11f1-9980-bbe7627bacda.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyMnw1OA/big_img/9cc1e090-6875-11f1-a576-4b904365c5dd.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyMnw1OA/big_img/9db58f60-6875-11f1-a576-4b904365c5dd.webp</url>
-    </image>
-    <home_listing_id>fabriksgatan_2_g6x_v0w</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/fabriksgatan-2-g6x-v0w</url>
-    <name>Fabriksgatan 2</name>
-    <price>0 SEK</price>
-    <address format="simple">
-      <component name="addr1">Fabriksgatan 2</component>
-      <component name="city">Flen</component>
-      <component name="region">Flen</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Flen</neighborhood>
   </listing>
 </listings>
