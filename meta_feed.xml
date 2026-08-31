@@ -2,6 +2,54 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTEyMnw1OA/big_img/5369bfc0-f2bf-11f0-bcfb-5dbb2fb26a0e.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTEyMnw1OA/big_img/4d5448d0-f2bf-11f0-b019-9f329df0315f.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTEyMnw1OA/big_img/3b8f5590-f2bf-11f0-b07e-0909967531ed.webp</url>
+    </image>
+    <home_listing_id>hantverksgatan_25_gdo_q59</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/hantverksgatan-25-gdo-q59</url>
+    <name>Hantverksgatan 25</name>
+    <price>4000000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Hantverksgatan 25</component>
+      <component name="city">Vingåker</component>
+      <component name="region">Vingåker</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Vingåker</neighborhood>
+  </listing>
+  <listing>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU2N3w1OA/big_img/a028add0-4b76-11f0-912f-d7f724796200.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU2N3w1OA/big_img/9ea89d80-4b76-11f0-9a04-c1d0035f44ee.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU2N3w1OA/big_img/c9c50f30-34e7-11f0-a6b2-556490a13cc2.webp</url>
+    </image>
+    <home_listing_id>lagergatan_34_gxn_kpv</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/lagergatan-34-gxn-kpv</url>
+    <name>LAGERGATAN 34</name>
+    <price>1950000 SEK</price>
+    <address format="simple">
+      <component name="addr1">LAGERGATAN 34</component>
+      <component name="city">Skellefteå</component>
+      <component name="region">Skellefteå</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Skellefteå</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTEzMXw1OA/big_img/b7381900-8ee4-11f0-aaa9-8b2d462bc18b.webp</url>
     </image>
     <image>
@@ -71,53 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Västerås</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUyMHw1OA/big_img/cb879f20-888b-11f0-aaa9-8b2d462bc18b.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUyMHw1OA/big_img/c735d130-888b-11f0-9eb4-c31902ac9027.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUyMHw1OA/big_img/cca65590-888b-11f0-aaa9-8b2d462bc18b.webp</url>
-    </image>
-    <home_listing_id>junivagen_1_got_ny5</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/junivagen-1-got-ny5</url>
-    <name>Junivägen 1</name>
-    <price>7975000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Junivägen 1</component>
-      <component name="city">Eskilstuna</component>
-      <component name="region">Eskilstuna</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Eskilstuna</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ5N3w1OA/big_img/60944110-6633-11f1-9980-bbe7627bacda.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ5N3w1OA/big_img/61f88c00-6633-11f1-a24f-fbfff2a7c85e.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ5N3w1OA/big_img/5f771140-6633-11f1-a24f-fbfff2a7c85e.webp</url>
-    </image>
-    <home_listing_id>farnebovagen_903b_gbx_wt9</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/farnebovagen-903b-gbx-wt9</url>
-    <name>Färnebovägen 903B</name>
-    <price>0 SEK</price>
-    <address format="simple">
-      <component name="addr1">Färnebovägen 903B</component>
-      <component name="city">Österfärnebo</component>
-      <component name="region">Österfärnebo</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Österfärnebo</neighborhood>
   </listing>
 </listings>
