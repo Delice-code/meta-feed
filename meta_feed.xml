@@ -2,6 +2,30 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQzNXw1OA/big_img/bef23530-6e41-11f1-946f-dd2649305cf8.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQzNXw1OA/big_img/d92fbcb0-6e41-11f1-a576-4b904365c5dd.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQzNXw1OA/big_img/da454b60-6e41-11f1-a576-4b904365c5dd.webp</url>
+    </image>
+    <home_listing_id>nybyvagen_2d_go8_vr0</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/nybyvagen-2d-go8-vr0</url>
+    <name>Nybyvägen 2D</name>
+    <price>3000000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Nybyvägen 2D</component>
+      <component name="city">Torshälla</component>
+      <component name="region">Torshälla</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Torshälla</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTEyMnw1OA/big_img/5369bfc0-f2bf-11f0-bcfb-5dbb2fb26a0e.webp</url>
     </image>
     <image>
@@ -95,29 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Avesta</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU0OHw1OA/big_img/1867cd40-9fbc-11f1-9980-bbe7627bacda.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU0OHw1OA/big_img/15b07570-9fbc-11f1-a576-4b904365c5dd.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU0OHw1OA/big_img/171339c0-9fbc-11f1-9980-bbe7627bacda.webp</url>
-    </image>
-    <home_listing_id>voltmatargatan_4_gsz_y2w</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/voltmatargatan-4-gsz-y2w</url>
-    <name>Voltmätargatan 4</name>
-    <price>1495000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Voltmätargatan 4</component>
-      <component name="city">Västerås</component>
-      <component name="region">Västerås</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Västerås</neighborhood>
   </listing>
 </listings>
