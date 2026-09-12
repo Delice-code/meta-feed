@@ -2,6 +2,30 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUwOXw1OA/big_img/3148eea0-6fd0-11f1-946f-dd2649305cf8.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUwOXw1OA/big_img/9af57460-add6-11f1-9980-bbe7627bacda.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUwOXw1OA/big_img/a707d130-add6-11f1-a24f-fbfff2a7c85e.webp</url>
+    </image>
+    <home_listing_id>ostra_storgatan_4a_gvr_22g</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/ostra-storgatan-4a-gvr-22g</url>
+    <name>Östra Storgatan 4A</name>
+    <price>0 SEK</price>
+    <address format="simple">
+      <component name="addr1">Östra Storgatan 4A</component>
+      <component name="city">Eskilstuna</component>
+      <component name="region">Eskilstuna</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Eskilstuna</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDY2OXw1OA/big_img/a0bdf0f0-a83d-11f1-a576-4b904365c5dd.webp</url>
     </image>
     <image>
@@ -95,29 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Norberg</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQzNXw1OA/big_img/bef23530-6e41-11f1-946f-dd2649305cf8.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQzNXw1OA/big_img/d92fbcb0-6e41-11f1-a576-4b904365c5dd.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQzNXw1OA/big_img/da454b60-6e41-11f1-a576-4b904365c5dd.webp</url>
-    </image>
-    <home_listing_id>nybyvagen_2d_go8_vr0</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/nybyvagen-2d-go8-vr0</url>
-    <name>Nybyvägen 2D</name>
-    <price>3000000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Nybyvägen 2D</component>
-      <component name="city">Torshälla</component>
-      <component name="region">Torshälla</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Torshälla</neighborhood>
   </listing>
 </listings>
