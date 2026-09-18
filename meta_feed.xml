@@ -26,6 +26,30 @@
   </listing>
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU0MHw1OA/big_img/b8727ea0-a874-11f1-a576-4b904365c5dd.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU0MHw1OA/big_img/b1047c90-a874-11f1-a576-4b904365c5dd.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU0MHw1OA/big_img/b48fc630-a874-11f1-a24f-fbfff2a7c85e.webp</url>
+    </image>
+    <home_listing_id>vackerby_industrivag_12_gtu_3qo</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/vackerby-industrivag-12-gtu-3qo</url>
+    <name>Vackerby industriväg 12</name>
+    <price>10750000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Vackerby industriväg 12</component>
+      <component name="city">Gnesta</component>
+      <component name="region">Gnesta</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Gnesta</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDY2OXw1OA/big_img/a0bdf0f0-a83d-11f1-a576-4b904365c5dd.webp</url>
     </image>
     <image>
@@ -95,29 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Vallentuna</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA2NXw1OA/big_img/8d28bbb0-8ee4-11f0-aaa9-8b2d462bc18b.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA2NXw1OA/big_img/91998350-8ee4-11f0-8095-8d1405fdd820.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA2NXw1OA/big_img/8bdb2d10-8ee4-11f0-8095-8d1405fdd820.webp</url>
-    </image>
-    <home_listing_id>polhemsvagen_4b_gxf_a0e</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/polhemsvagen-4b-gxf-a0e</url>
-    <name>Polhemsvägen 4B</name>
-    <price>2390000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Polhemsvägen 4B</component>
-      <component name="city">Norberg</component>
-      <component name="region">Norberg</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Norberg</neighborhood>
   </listing>
 </listings>
