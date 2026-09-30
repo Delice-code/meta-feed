@@ -2,6 +2,30 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTYxMXw1OA/big_img/7e6261d0-a050-11f0-9eb4-c31902ac9027.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTYxMXw1OA/big_img/7f9eb260-a050-11f0-9eb4-c31902ac9027.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTYxMXw1OA/big_img/75044f90-a050-11f0-aaa9-8b2d462bc18b.webp</url>
+    </image>
+    <home_listing_id>heljestrandsgatan_15_och_17_g63_ho3</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/heljestrandsgatan-15-och-17-g63-ho3</url>
+    <name>Heljestrandsgatan 15 och 17</name>
+    <price>15600000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Heljestrandsgatan 15 och 17</component>
+      <component name="city">Eskilstuna</component>
+      <component name="region">Eskilstuna</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Eskilstuna</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTYwNHw1OA/big_img/817fdc10-8973-11f0-8095-8d1405fdd820.webp</url>
     </image>
     <image>
@@ -95,29 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Skogstorp</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTE5M3w1OA/big_img/497f7570-60d0-11f1-a24f-fbfff2a7c85e.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTE5M3w1OA/big_img/5b971c90-60d0-11f1-9980-bbe7627bacda.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTE5M3w1OA/big_img/64498580-60d0-11f1-946f-dd2649305cf8.webp</url>
-    </image>
-    <home_listing_id>nicandergatan_5_g79_3ej</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/nicandergatan-5-g79-3ej</url>
-    <name>Nicandergatan 5</name>
-    <price>0 SEK</price>
-    <address format="simple">
-      <component name="addr1">Nicandergatan 5</component>
-      <component name="city">Strängnäs</component>
-      <component name="region">Strängnäs</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Strängnäs</neighborhood>
   </listing>
 </listings>
