@@ -2,6 +2,102 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyNnw1OA/big_img/62e5c640-3ee3-11f1-9980-bbe7627bacda.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyNnw1OA/big_img/4aa60a90-3ee3-11f1-a24f-fbfff2a7c85e.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyNnw1OA/big_img/6932c7f0-3ee3-11f1-9980-bbe7627bacda.webp</url>
+    </image>
+    <home_listing_id>landsvagsgatan_72_gbg_csb</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/landsvagsgatan-72-gbg-csb</url>
+    <name>Landsvägsgatan 72</name>
+    <price>2500000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Landsvägsgatan 72</component>
+      <component name="city">Malmköping</component>
+      <component name="region">Malmköping</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Malmköping</neighborhood>
+  </listing>
+  <listing>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTM4MXw1OA/big_img/edbd07a0-3d81-11f1-920b-e1306226a632.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTM4MXw1OA/big_img/eb089600-3d81-11f1-8df6-61fb49ddb8b9.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTM4MXw1OA/big_img/ec5d5090-3d81-11f1-a580-a9971fc6e942.webp</url>
+    </image>
+    <home_listing_id>skoldinge_g8g_yky</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/skoldinge-g8g-yky</url>
+    <name>Sköldinge</name>
+    <price>3000000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Sköldinge</component>
+      <component name="city">Kommersiell</component>
+      <component name="region">Kommersiell</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Kommersiell</neighborhood>
+  </listing>
+  <listing>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDU0Nnw1OA/big_img/73577ab0-1ba6-11f1-a580-a9971fc6e942.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDU0Nnw1OA/big_img/768e89d0-1ba6-11f1-a580-a9971fc6e942.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDU0Nnw1OA/big_img/77b75260-1ba6-11f1-8df6-61fb49ddb8b9.webp</url>
+    </image>
+    <home_listing_id>skjulstagatan_12b_gbx_wqc</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/skjulstagatan-12b-gbx-wqc</url>
+    <name>Skjulstagatan 12B</name>
+    <price>4500000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Skjulstagatan 12B</component>
+      <component name="city">Eskilstuna</component>
+      <component name="region">Eskilstuna</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Eskilstuna</neighborhood>
+  </listing>
+  <listing>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA2Mnw1OA/big_img/cde7b8b0-1966-11f1-920b-e1306226a632.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA2Mnw1OA/big_img/a6ad2640-1966-11f1-8df6-61fb49ddb8b9.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA2Mnw1OA/big_img/b6303fd0-1966-11f1-a580-a9971fc6e942.webp</url>
+    </image>
+    <home_listing_id>nibblegatan_2_7_gv5_qcf</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/nibblegatan-2-7-gv5-qcf</url>
+    <name>Nibblegatan  2 &amp; 7</name>
+    <price>10000000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Nibblegatan  2 &amp; 7</component>
+      <component name="city">Gnesta</component>
+      <component name="region">Gnesta</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Gnesta</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTM3Mnw1OA/big_img/4e974f30-5fe3-11f1-a24f-fbfff2a7c85e.webp</url>
     </image>
     <image>
@@ -23,101 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Västerås</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTM2OXw1OA/big_img/c8a0aa20-5452-11f1-a24f-fbfff2a7c85e.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTM2OXw1OA/big_img/c9da62a0-5452-11f1-a576-4b904365c5dd.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTM2OXw1OA/big_img/cc323550-5452-11f1-946f-dd2649305cf8.webp</url>
-    </image>
-    <home_listing_id>hagavagen_gb9_40v</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/hagavagen-gb9-40v</url>
-    <name>Hagavägen</name>
-    <price>10900000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Hagavägen</component>
-      <component name="city">Ransta</component>
-      <component name="region">Ransta</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Ransta</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQwOHw1OA/big_img/9ad449e0-4240-11f1-946f-dd2649305cf8.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQwOHw1OA/big_img/9d6729c0-4240-11f1-946f-dd2649305cf8.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQwOHw1OA/big_img/9c2a8b10-4240-11f1-946f-dd2649305cf8.webp</url>
-    </image>
-    <home_listing_id>islingbyvagen_gzg_pqy</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/islingbyvagen-gzg-pqy</url>
-    <name>Islingbyvägen</name>
-    <price>0 SEK</price>
-    <address format="simple">
-      <component name="addr1">Islingbyvägen</component>
-      <component name="city">Västerfärnebo</component>
-      <component name="region">Västerfärnebo</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Västerfärnebo</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTM3MXw1OA/big_img/7dcbe5c0-b292-11f1-a6c3-13cade4c6d51.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTM3MXw1OA/big_img/7c557260-b292-11f1-a6c3-13cade4c6d51.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTM3MXw1OA/big_img/82dda850-b292-11f1-9a4c-87c0da2ab116.webp</url>
-    </image>
-    <home_listing_id>videgatan_g53_hj6</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/videgatan-g53-hj6</url>
-    <name>Videgatan</name>
-    <price>10900000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Videgatan</component>
-      <component name="city">Sala</component>
-      <component name="region">Sala</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Sala</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA1M3w1OA/big_img/230e17d0-923a-11f0-8095-8d1405fdd820.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA1M3w1OA/big_img/1ee75180-923a-11f0-8095-8d1405fdd820.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA1M3w1OA/big_img/21881410-923a-11f0-968c-b95a9f91cf2e.webp</url>
-    </image>
-    <home_listing_id>industrivagen_4_gqh_wqo</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/industrivagen-4-gqh-wqo</url>
-    <name>Industrivägen 4</name>
-    <price>0 SEK</price>
-    <address format="simple">
-      <component name="addr1">Industrivägen 4</component>
-      <component name="city">Ransta</component>
-      <component name="region">Ransta</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Ransta</neighborhood>
   </listing>
 </listings>
