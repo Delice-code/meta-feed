@@ -2,6 +2,54 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTIzOHw1OA/big_img/c5ac5c80-1df0-11f1-a580-a9971fc6e942.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTIzOHw1OA/big_img/ca5c01e0-1df0-11f1-8df6-61fb49ddb8b9.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTIzOHw1OA/big_img/d137af00-1df0-11f1-920b-e1306226a632.webp</url>
+    </image>
+    <home_listing_id>stockholmsvagen_3_g65_cez</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/stockholmsvagen-3-g65-cez</url>
+    <name>Stockholmsvägen 3</name>
+    <price>11575000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Stockholmsvägen 3</component>
+      <component name="city">Saltsjöbaden</component>
+      <component name="region">Saltsjöbaden</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Saltsjöbaden</neighborhood>
+  </listing>
+  <listing>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTIyM3w1OA/big_img/a2582030-c22c-11f1-9f65-bbac46120b29.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTIyM3w1OA/big_img/a3ab7b30-c22c-11f1-8dfc-d1c6a302cc58.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTIyM3w1OA/big_img/a52968a0-c22c-11f1-8dfc-d1c6a302cc58.webp</url>
+    </image>
+    <home_listing_id>drottninggatan_9a_gx2_40a</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/drottninggatan-9a-gx2-40a</url>
+    <name>Drottninggatan 9A</name>
+    <price>9900000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Drottninggatan 9A</component>
+      <component name="city">Västerås</component>
+      <component name="region">Västerås</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Västerås</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ0OXw1OA/big_img/6c120e80-a159-11f1-9980-bbe7627bacda.webp</url>
     </image>
     <image>
@@ -71,53 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Kommersiell</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDU0Nnw1OA/big_img/73577ab0-1ba6-11f1-a580-a9971fc6e942.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDU0Nnw1OA/big_img/768e89d0-1ba6-11f1-a580-a9971fc6e942.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDU0Nnw1OA/big_img/77b75260-1ba6-11f1-8df6-61fb49ddb8b9.webp</url>
-    </image>
-    <home_listing_id>skjulstagatan_12b_gbx_wqc</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/skjulstagatan-12b-gbx-wqc</url>
-    <name>Skjulstagatan 12B</name>
-    <price>4500000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Skjulstagatan 12B</component>
-      <component name="city">Eskilstuna</component>
-      <component name="region">Eskilstuna</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Eskilstuna</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA2Mnw1OA/big_img/cde7b8b0-1966-11f1-920b-e1306226a632.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA2Mnw1OA/big_img/a6ad2640-1966-11f1-8df6-61fb49ddb8b9.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTA2Mnw1OA/big_img/b6303fd0-1966-11f1-a580-a9971fc6e942.webp</url>
-    </image>
-    <home_listing_id>nibblegatan_2_7_gv5_qcf</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/nibblegatan-2-7-gv5-qcf</url>
-    <name>Nibblegatan  2 &amp; 7</name>
-    <price>10000000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Nibblegatan  2 &amp; 7</component>
-      <component name="city">Gnesta</component>
-      <component name="region">Gnesta</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Gnesta</neighborhood>
   </listing>
 </listings>
