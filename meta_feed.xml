@@ -2,6 +2,54 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY0Nnw1OA/big_img/6c48fd30-29dd-11f1-9e63-1fd100d65cb5.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY0Nnw1OA/big_img/56073460-29dd-11f1-9e63-1fd100d65cb5.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY0Nnw1OA/big_img/577dced0-29dd-11f1-8df6-61fb49ddb8b9.webp</url>
+    </image>
+    <home_listing_id>vasbygatan_10_g6p_s5u</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/vasbygatan-10-g6p-s5u</url>
+    <name>Väsbygatan 10</name>
+    <price>4450000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Väsbygatan 10</component>
+      <component name="city">Sala</component>
+      <component name="region">Sala</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Sala</neighborhood>
+  </listing>
+  <listing>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5MHw1OA/big_img/fb75ca20-c9aa-11f1-8637-c72e39e6832a.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5MHw1OA/big_img/fc9013c0-c9aa-11f1-a191-d94c9ad6955b.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5MHw1OA/big_img/ff024c40-c9aa-11f1-a191-d94c9ad6955b.webp</url>
+    </image>
+    <home_listing_id>svarvargatan_1_gz5_xmb</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/svarvargatan-1-gz5-xmb</url>
+    <name>Svarvargatan 1</name>
+    <price>0 SEK</price>
+    <address format="simple">
+      <component name="addr1">Svarvargatan 1</component>
+      <component name="city">Norberg</component>
+      <component name="region">Norberg</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Norberg</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY0MHw1OA/big_img/fc89fc70-58ae-11ef-b3b0-b7023b02971d.webp</url>
     </image>
     <image>
@@ -26,6 +74,30 @@
   </listing>
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUwMXw1OA/big_img/81aad5f0-c941-11f1-b9fd-bd20b26fee68.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUwMXw1OA/big_img/80143060-c941-11f1-b9fd-bd20b26fee68.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUwMXw1OA/big_img/80e64d70-c941-11f1-b1b5-ab3434ed3fcc.webp</url>
+    </image>
+    <home_listing_id>kornettgatan_15_a_d_g29_h8r</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/kornettgatan-15-a-d-g29-h8r</url>
+    <name>Kornettgatan 15 A-D</name>
+    <price>15000000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Kornettgatan 15 A-D</component>
+      <component name="city">Norberg</component>
+      <component name="region">Norberg</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Norberg</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTIzOHw1OA/big_img/c5ac5c80-1df0-11f1-a580-a9971fc6e942.webp</url>
     </image>
     <image>
@@ -47,77 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Saltsjöbaden</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTIyM3w1OA/big_img/a2582030-c22c-11f1-9f65-bbac46120b29.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTIyM3w1OA/big_img/a3ab7b30-c22c-11f1-8dfc-d1c6a302cc58.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTIyM3w1OA/big_img/a52968a0-c22c-11f1-8dfc-d1c6a302cc58.webp</url>
-    </image>
-    <home_listing_id>drottninggatan_9a_gx2_40a</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/drottninggatan-9a-gx2-40a</url>
-    <name>Drottninggatan 9A</name>
-    <price>9900000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Drottninggatan 9A</component>
-      <component name="city">Västerås</component>
-      <component name="region">Västerås</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Västerås</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ0OXw1OA/big_img/6c120e80-a159-11f1-9980-bbe7627bacda.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ0OXw1OA/big_img/6d255340-a159-11f1-a576-4b904365c5dd.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ0OXw1OA/big_img/64555030-a159-11f1-a576-4b904365c5dd.webp</url>
-    </image>
-    <home_listing_id>stora_gatan_20_prastgardsg_17_m_fl_gma_s6s</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/stora-gatan-20-prastgardsg-17-m-fl-gma-s6s</url>
-    <name>Stora gatan 20,  Prästgårdsg. 17 m.fl</name>
-    <price>35000000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Stora gatan 20,  Prästgårdsg. 17 m.fl</component>
-      <component name="city">Köping</component>
-      <component name="region">Köping</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Köping</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyNnw1OA/big_img/62e5c640-3ee3-11f1-9980-bbe7627bacda.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyNnw1OA/big_img/4aa60a90-3ee3-11f1-a24f-fbfff2a7c85e.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQyNnw1OA/big_img/6932c7f0-3ee3-11f1-9980-bbe7627bacda.webp</url>
-    </image>
-    <home_listing_id>landsvagsgatan_72_gbg_csb</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/landsvagsgatan-72-gbg-csb</url>
-    <name>Landsvägsgatan 72</name>
-    <price>2500000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Landsvägsgatan 72</component>
-      <component name="city">Malmköping</component>
-      <component name="region">Malmköping</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Malmköping</neighborhood>
   </listing>
 </listings>
