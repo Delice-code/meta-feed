@@ -2,6 +2,30 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ3Nnw1OA/big_img/fa07a3f0-d77b-11f1-9e6c-ddffb2e59e39.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ3Nnw1OA/big_img/bde3beb0-d779-11f1-a17c-05832ed3b346.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ3Nnw1OA/big_img/b5430900-d779-11f1-a17c-05832ed3b346.webp</url>
+    </image>
+    <home_listing_id>mariefredsvagen_48_gwc_x8z</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/mariefredsvagen-48-gwc-x8z</url>
+    <name>Mariefredsvägen 48</name>
+    <price>5995000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Mariefredsvägen 48</component>
+      <component name="city">Strängnäs</component>
+      <component name="region">Strängnäs</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Strängnäs</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU4M3w1OA/big_img/cd9d1220-b127-11f1-9980-bbe7627bacda.webp</url>
     </image>
     <image>
@@ -95,29 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Gnesta</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUwMXw1OA/big_img/81aad5f0-c941-11f1-b9fd-bd20b26fee68.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUwMXw1OA/big_img/80143060-c941-11f1-b9fd-bd20b26fee68.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTUwMXw1OA/big_img/80e64d70-c941-11f1-b1b5-ab3434ed3fcc.webp</url>
-    </image>
-    <home_listing_id>kornettgatan_15_a_d_g29_h8r</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/kornettgatan-15-a-d-g29-h8r</url>
-    <name>Kornettgatan 15 A-D</name>
-    <price>15000000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Kornettgatan 15 A-D</component>
-      <component name="city">Norberg</component>
-      <component name="region">Norberg</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Norberg</neighborhood>
   </listing>
 </listings>
