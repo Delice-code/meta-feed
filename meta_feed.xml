@@ -2,6 +2,30 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY1Nnw1OA/big_img/220ac060-1a28-11f1-8df6-61fb49ddb8b9.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY1Nnw1OA/big_img/251c6d30-1a28-11f1-a580-a9971fc6e942.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY1Nnw1OA/big_img/26da22c0-1a28-11f1-8df6-61fb49ddb8b9.webp</url>
+    </image>
+    <home_listing_id>malargatan_6_gbm_0vv</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/malargatan-6-gbm-0vv</url>
+    <name>Målargatan 6</name>
+    <price>0 SEK</price>
+    <address format="simple">
+      <component name="addr1">Målargatan 6</component>
+      <component name="city">Västerås</component>
+      <component name="region">Västerås</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Västerås</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ3Nnw1OA/big_img/fa07a3f0-d77b-11f1-9e6c-ddffb2e59e39.webp</url>
     </image>
     <image>
@@ -26,6 +50,54 @@
   </listing>
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5OXw1OA/big_img/77f087b0-d46a-11f1-b3ac-f7beb73d6236.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5OXw1OA/big_img/6f1b2d70-d46a-11f1-b3ac-f7beb73d6236.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5OXw1OA/big_img/73951cd0-d46a-11f1-95fd-fd7992f37ed4.webp</url>
+    </image>
+    <home_listing_id>johannisberg_12_g8w_2mr</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/johannisberg-12-g8w-2mr</url>
+    <name>Johannisberg 12</name>
+    <price>9500000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Johannisberg 12</component>
+      <component name="city">Västerås</component>
+      <component name="region">Västerås</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Västerås</neighborhood>
+  </listing>
+  <listing>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4N3w1OA/big_img/282a2b80-d91c-11f1-bb0e-4befa5664e15.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4N3w1OA/big_img/10cd55c0-d91c-11f1-9146-3f77815d5bd8.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4N3w1OA/big_img/133491c0-d91c-11f1-bb0e-4befa5664e15.webp</url>
+    </image>
+    <home_listing_id>centralgatan_49_gnn_cj8</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/centralgatan-49-gnn-cj8</url>
+    <name>Centralgatan 49</name>
+    <price>5500000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Centralgatan 49</component>
+      <component name="city">Nynäshamn</component>
+      <component name="region">Nynäshamn</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Nynäshamn</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU4M3w1OA/big_img/cd9d1220-b127-11f1-9980-bbe7627bacda.webp</url>
     </image>
     <image>
@@ -47,77 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Oxelösund</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY0Nnw1OA/big_img/6c48fd30-29dd-11f1-9e63-1fd100d65cb5.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY0Nnw1OA/big_img/56073460-29dd-11f1-9e63-1fd100d65cb5.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY0Nnw1OA/big_img/577dced0-29dd-11f1-8df6-61fb49ddb8b9.webp</url>
-    </image>
-    <home_listing_id>vasbygatan_10_g6p_s5u</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/vasbygatan-10-g6p-s5u</url>
-    <name>Väsbygatan 10</name>
-    <price>4450000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Väsbygatan 10</component>
-      <component name="city">Sala</component>
-      <component name="region">Sala</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Sala</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5MHw1OA/big_img/fb75ca20-c9aa-11f1-8637-c72e39e6832a.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5MHw1OA/big_img/fc9013c0-c9aa-11f1-a191-d94c9ad6955b.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5MHw1OA/big_img/ff024c40-c9aa-11f1-a191-d94c9ad6955b.webp</url>
-    </image>
-    <home_listing_id>svarvargatan_1_gz5_xmb</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/svarvargatan-1-gz5-xmb</url>
-    <name>Svarvargatan 1</name>
-    <price>0 SEK</price>
-    <address format="simple">
-      <component name="addr1">Svarvargatan 1</component>
-      <component name="city">Norberg</component>
-      <component name="region">Norberg</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Norberg</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY0MHw1OA/big_img/fc89fc70-58ae-11ef-b3b0-b7023b02971d.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY0MHw1OA/big_img/eb76a5f0-58ae-11ef-9110-87844f79e3fe.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY0MHw1OA/big_img/ee7c44d0-58ae-11ef-b3b0-b7023b02971d.webp</url>
-    </image>
-    <home_listing_id>vastra_storgatan_41a_g3a_0qj</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/vastra-storgatan-41a-g3a-0qj</url>
-    <name>Västra Storgatan 41A</name>
-    <price>11450000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Västra Storgatan 41A</component>
-      <component name="city">Gnesta</component>
-      <component name="region">Gnesta</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Gnesta</neighborhood>
   </listing>
 </listings>
