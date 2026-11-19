@@ -2,6 +2,78 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY3MHw1OA/big_img/ae031410-7749-11ef-8919-c7bc109b7c2c.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY3MHw1OA/big_img/1f5c1b70-774a-11ef-8919-c7bc109b7c2c.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY3MHw1OA/big_img/aa0384d0-7749-11ef-9ae3-b171356d5254.webp</url>
+    </image>
+    <home_listing_id>truckvagen_2_gbj_4qf</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/truckvagen-2-gbj-4qf</url>
+    <name>Truckvägen 2</name>
+    <price>0 SEK</price>
+    <address format="simple">
+      <component name="addr1">Truckvägen 2</component>
+      <component name="city">Fagersta</component>
+      <component name="region">Fagersta</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Fagersta</neighborhood>
+  </listing>
+  <listing>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY2OHw1OA/big_img/52d62d90-9acc-11f1-946f-dd2649305cf8.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY2OHw1OA/big_img/5042b170-9acc-11f1-946f-dd2649305cf8.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY2OHw1OA/big_img/543f8190-9acc-11f1-946f-dd2649305cf8.webp</url>
+    </image>
+    <home_listing_id>malmonvagen_147_g8t_taz</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/malmonvagen-147-g8t-taz</url>
+    <name>Malmönvägen 147</name>
+    <price>4000000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Malmönvägen 147</component>
+      <component name="city">Köping</component>
+      <component name="region">Köping</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Köping</neighborhood>
+  </listing>
+  <listing>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDU2Mnw1OA/big_img/a69762f0-6374-11ef-a014-59195a43a280.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDU2Mnw1OA/big_img/a8e04180-6374-11ef-a014-59195a43a280.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMDU2Mnw1OA/big_img/a4b3fcf0-6374-11ef-a014-59195a43a280.webp</url>
+    </image>
+    <home_listing_id>fabriksgatan_2a_g66_m66</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/fabriksgatan-2a-g66-m66</url>
+    <name>Fabriksgatan 2A</name>
+    <price>4595000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Fabriksgatan 2A</component>
+      <component name="city">Sala</component>
+      <component name="region">Sala</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Sala</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5MXw1OA/big_img/8c6d51f0-c2e5-11f1-a191-d94c9ad6955b.webp</url>
     </image>
     <image>
@@ -47,77 +119,5 @@
       <component name="country">Sweden</component>
     </address>
     <neighborhood>Västerås</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ3Nnw1OA/big_img/89a5b940-df3b-11f1-8802-c1037d1849b6.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ3Nnw1OA/big_img/fa07a3f0-d77b-11f1-9e6c-ddffb2e59e39.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ3Nnw1OA/big_img/8bac1090-df3b-11f1-8802-c1037d1849b6.webp</url>
-    </image>
-    <home_listing_id>mariefredsvagen_48_gwc_x8z</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/mariefredsvagen-48-gwc-x8z</url>
-    <name>Mariefredsvägen 48</name>
-    <price>5995000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Mariefredsvägen 48</component>
-      <component name="city">Strängnäs</component>
-      <component name="region">Strängnäs</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Strängnäs</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5OXw1OA/big_img/77f087b0-d46a-11f1-b3ac-f7beb73d6236.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5OXw1OA/big_img/6f1b2d70-d46a-11f1-b3ac-f7beb73d6236.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTU5OXw1OA/big_img/73951cd0-d46a-11f1-95fd-fd7992f37ed4.webp</url>
-    </image>
-    <home_listing_id>johannisberg_12_g8w_2mr</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/johannisberg-12-g8w-2mr</url>
-    <name>Johannisberg 12</name>
-    <price>9500000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Johannisberg 12</component>
-      <component name="city">Västerås</component>
-      <component name="region">Västerås</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Västerås</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4N3w1OA/big_img/282a2b80-d91c-11f1-bb0e-4befa5664e15.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4N3w1OA/big_img/10cd55c0-d91c-11f1-9146-3f77815d5bd8.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTQ4N3w1OA/big_img/133491c0-d91c-11f1-bb0e-4befa5664e15.webp</url>
-    </image>
-    <home_listing_id>centralgatan_49_gnn_cj8</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/centralgatan-49-gnn-cj8</url>
-    <name>Centralgatan 49</name>
-    <price>5500000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Centralgatan 49</component>
-      <component name="city">Nynäshamn</component>
-      <component name="region">Nynäshamn</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Nynäshamn</neighborhood>
   </listing>
 </listings>
