@@ -2,6 +2,30 @@
 <listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.facebook.com/ads/external/schema/home_listings.xsd">
   <listing>
     <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY3MXw1OA/big_img/78d37f40-3238-11f1-8df6-61fb49ddb8b9.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY3MXw1OA/big_img/7a3691b0-3238-11f1-a580-a9971fc6e942.webp</url>
+    </image>
+    <image>
+      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY3MXw1OA/big_img/67450550-3238-11f1-920b-e1306226a632.webp</url>
+    </image>
+    <home_listing_id>hantverksgatan_2_a_d_hamrevagen_10_a_d_gj9_6dg</home_listing_id>
+    <availability>for_sale</availability>
+    <url>https://blokkfast.se/till-salu/hantverksgatan-2-a-d-hamrevagen-10-a-d-gj9-6dg</url>
+    <name>Hantverksgatan 2 A‑D &amp; Hamrevägen 10 A‑D</name>
+    <price>8600000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Hantverksgatan 2 A‑D &amp; Hamrevägen 10 A‑D</component>
+      <component name="city">Arboga</component>
+      <component name="region">Arboga</component>
+      <component name="postal_code"/>
+      <component name="country">Sweden</component>
+    </address>
+    <neighborhood>Arboga</neighborhood>
+  </listing>
+  <listing>
+    <image>
       <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY3MHw1OA/big_img/ae031410-7749-11ef-8919-c7bc109b7c2c.webp</url>
     </image>
     <image>
@@ -89,30 +113,6 @@
     <price>0 SEK</price>
     <address format="simple">
       <component name="addr1">Boskapsvägen 1-3 &amp; Skogsbetesvägen 6</component>
-      <component name="city">Västerås</component>
-      <component name="region">Västerås</component>
-      <component name="postal_code"/>
-      <component name="country">Sweden</component>
-    </address>
-    <neighborhood>Västerås</neighborhood>
-  </listing>
-  <listing>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY1Nnw1OA/big_img/220ac060-1a28-11f1-8df6-61fb49ddb8b9.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY1Nnw1OA/big_img/251c6d30-1a28-11f1-a580-a9971fc6e942.webp</url>
-    </image>
-    <image>
-      <url>https://blokkfast.se/uploads_img/Objects/MDY3MHwwMDAwMDAwMTY1Nnw1OA/big_img/26da22c0-1a28-11f1-8df6-61fb49ddb8b9.webp</url>
-    </image>
-    <home_listing_id>malargatan_6_gbm_0vv</home_listing_id>
-    <availability>for_sale</availability>
-    <url>https://blokkfast.se/till-salu/malargatan-6-gbm-0vv</url>
-    <name>Målargatan 6</name>
-    <price>0 SEK</price>
-    <address format="simple">
-      <component name="addr1">Målargatan 6</component>
       <component name="city">Västerås</component>
       <component name="region">Västerås</component>
       <component name="postal_code"/>
